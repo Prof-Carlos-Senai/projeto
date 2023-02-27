@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: cornflowerblue;
+    background-color: brown;
+    font-family: Tahoma;
 }
 
 button{
     background-color: black;
     color: whitesmoke;
     font-family: Tahoma;
-    font-weight: bold;
 }

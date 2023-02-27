@@ -6,4 +6,5 @@ function gravar(){
     res.style.fontSize = '20px'
     res.style.fontFamily = 'Tahoma'
     res.style.fontWeight = 'bold'
+    res.innerHTML = nome
 }
